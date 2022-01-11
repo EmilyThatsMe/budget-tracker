@@ -14,7 +14,7 @@ Budget Tracker is an app that logs financial transactions and produces a graph s
 
 ## Installation
 
-You can find and use this app on heroku at:
+You can find and use this app on heroku at: https://young-anchorage-57768.herokuapp.com/
 
 ## Usage
 
